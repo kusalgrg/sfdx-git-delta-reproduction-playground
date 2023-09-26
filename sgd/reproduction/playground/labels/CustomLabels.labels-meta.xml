@@ -5,13 +5,13 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Sample Custom Label 1</shortDescription>
-        <value>This is the text for Custom Label 1. </value>
+        <value>This is the text for Custom Label 1.</value>
     </labels>
     <labels>
         <fullName>CustomLabel2</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Sample Custom Label 2</shortDescription>
-        <value>Custom Label 2 can store different text.</value>
+        <value>Custom Label 2 can store different text. </value>
     </labels>
 </CustomLabels>
